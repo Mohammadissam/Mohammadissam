@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohammad-issam-a803b1259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mohammadissam410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Amman%2C%20Jordan-000000?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amman%2C%20Jordan-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
 
 ### 🛡️ About Me
 
-Cybersecurity graduate and SOC analyst with hands-on experience across security monitoring, SIEM/XDR, firewalls, and incident investigation. CCNA and BTL1-certified. Co-founder of **AMAN Security**, where I build detection tooling and automation for real environments — not just lab exercises.
+Cybersecurity graduate and SOC analyst with hands-on experience across security monitoring, SIEM/XDR, firewalls, and incident investigation. CCNA and BTL1-certified. Co-founder of **AMAN Security**, where I build detection tooling and automation for real environments not just lab exercises.
 
 - 🔭 Currently building: SOC automation and detection tooling at **AMAN Security**
 - 🎓 Cybersecurity graduate, Al-Zaytoonah University of Jordan
@@ -104,8 +104,8 @@ Real-time phishing, BEC, and social-engineering detection for Gmail/Outlook usin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akuma0x1&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma0x1&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Mohammadissam&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohammadissam&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center"><i>Detect early. Respond faster. 🛡️</i></p>
