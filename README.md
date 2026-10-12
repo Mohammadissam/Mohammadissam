@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammad Issam 👋</h1>
-<h3 align="center">SOC Analyst | Blue Team | Detection Engineering | Security Automation</h3>
+<h3 align="center">SOC Analyst | Blue Team | Detection Engineer | Security Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=CCNA+%7C+BTL1+Certified;SOC+Operations+%26+Threat+Detection;Building+AMAN+Security" alt="Typing SVG" />
