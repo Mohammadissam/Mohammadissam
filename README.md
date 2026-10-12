@@ -15,7 +15,7 @@
 
 ### 🛡️ About Me
 
-Cybersecurity graduate and SOC analyst with hands-on experience across security monitoring, SIEM/XDR, firewalls, and incident investigation. CCNA and BTL1-certified. Co-founder of **AMAN Security**, where I build detection tooling and automation for real environments not just lab exercises.
+Cybersecurity graduate and SOC analyst with hands-on experience across security monitoring, SIEM/XDR, firewalls, and incident investigation. CCNA and BTL1-certified. Co-founder at **AMAN Security**, where I build detection tooling and automation for real environments not just lab exercises.
 
 - 🔭 Currently building: SOC automation and detection tooling at **AMAN Security**
 - 🎓 Cybersecurity graduate, Al-Zaytoonah University of Jordan
