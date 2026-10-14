@@ -15,11 +15,7 @@
 
 ### 🛡️ About Me
 
-Cybersecurity graduate and SOC analyst with hands-on experience across security monitoring, SIEM/XDR, firewalls, and incident investigation. CCNA and BTL1-certified. Co-founder at **AMAN Security**, where I build detection tooling and automation for real environments not just lab exercises.
-
-- 🔭 Currently building: SOC automation and detection tooling at **AMAN Security**
-- 🎓 Cybersecurity graduate, Al-Zaytoonah University of Jordan
-- 📈 TryHackMe — Top 2% global ranking
+Cybersecurity graduate and SOC analyst with hands-on experience across security monitoring, SIEM/XDR, firewalls, and incident investigation.
 
 ---
 
@@ -68,38 +64,7 @@ Cybersecurity graduate and SOC analyst with hands-on experience across security 
 - 🏅 Elastic Security for SIEM
 - 🏅 CEH (Certified Ethical Hacker) — training completed
 
----
 
-### 💼 Experience
-
-**Co-founder & SOC/Cybersecurity Engineer** — AMAN Security *(2024–Present)*
-Building and maintaining security tooling, OPNsense firewall monitoring, and Wazuh-based centralized log analysis; automating security workflows with Python, Bash, and n8n SOAR.
-
-
----
-
-### 📌 Featured Projects
-
-**🔹 Advanced SOC Simulation — Hybrid XDR & Automation**
-Hybrid on-prem/cloud monitoring environment with Wazuh SIEM/XDR, OPNsense + GCP firewall log integration, 15+ custom MITRE ATT&CK-mapped detection rules, and n8n-driven incident response automation — validated against simulated brute-force, lateral-movement, and phishing scenarios.
-
-**🔹 AI-Powered Email Threat Detection (Browser Extension)**
-Real-time phishing, BEC, and social-engineering detection for Gmail/Outlook using an AI classification model. 98% detection accuracy in internal testing, privacy-by-design (no content retention), in production since 2025.
-
----
-
-### 🏆 Achievements
-
-| Event | Result |
-|---|---|
-| Google Gemini Pro Challenge 2026 | 🥇 1st Place, Middle East & Turkey |
-| TryHackMe | Top 2% Global |
-| IEEE CTF 2025 | Rank 6 |
-| RLCTF v3 2025 | Rank 22 |
-| BlackHat MEA Riyadh 2025 | Rank 40 |
-| NASA Space Apps 2025 | Rank 11 |
-
----
 
 ### 📊 GitHub Stats
 
