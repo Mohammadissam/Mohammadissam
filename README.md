@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammad Issam 👋</h1>
-<h3 align="center">SOC Analyst | Blue Team | Detection Engineer | Security Automation</h3>
+<h3 align="center">Network & Security Operations Engineer (SOC / NOC) | Blue team</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=CCNA+%7C+BTL1+Certified;SOC+Operations+%26+Threat+Detection;Building+AMAN+Security" alt="Typing SVG" />
@@ -60,7 +60,7 @@ Cybersecurity graduate and SOC analyst with hands-on experience across security 
 </p>
 
 - 🏅 **Blue Team Level 1 (BTL1)** — issued by Centri · [Verify](https://www.credly.com/badges/6a7ec4e6-f06f-4de7-9a08-cb93eb3e5a14)
-- 🏅 CCNA (Cisco Certified Network Associate)
+- 🏅 CCNA training (88 h)
 - 🏅 Elastic Security for SIEM
 - 🏅 CEH (Certified Ethical Hacker) — training completed
 
