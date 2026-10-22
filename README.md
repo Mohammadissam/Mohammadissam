@@ -15,7 +15,7 @@
 
 ### 🛡️ About Me
 
-Cybersecurity graduate and SOC analyst with hands-on experience across security monitoring, SIEM/XDR, firewalls, and incident investigation.
+Just a simple human being :)
 
 ---
 
@@ -59,10 +59,8 @@ Cybersecurity graduate and SOC analyst with hands-on experience across security 
   </a>
 </p>
 
-- 🏅 **Blue Team Level 1 (BTL1)** — issued by Centri · [Verify](https://www.credly.com/badges/6a7ec4e6-f06f-4de7-9a08-cb93eb3e5a14)
-- 🏅 CCNA training (88 h)
-- 🏅 Elastic Security for SIEM
-- 🏅 CEH (Certified Ethical Hacker) — training completed
+-  **Blue Team Level 1 (BTL1)** — issued by Centri · [Verify](https://www.credly.com/badges/6a7ec4e6-f06f-4de7-9a08-cb93eb3e5a14)
+
 
 
 
